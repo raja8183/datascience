@@ -5,13 +5,14 @@ The project notebook can be found [here](./prompt.ipynb)
 Below are a few observations from the data analysis for Customers who visit Bar : 
 
 1. Drivers choose to mostly accept coupons for 'Coffee House', 'Restaurant less than 20 mins away' or 'Carry out & Take Away'.
-![Coupons Accepted vs Not Accepted](./images/pie-q4.img) ![Coupons Accepted by Type](./images/pie-q4-type.png)
+![Coupons Accepted vs Not Accepted](./images/pie-q4.png) ![Coupons Accepted by Type](./images/pie-q4-type.png)
 
 2. Majority prefer to accept Bar/Cofee House coupons when the temperatures are higher than 50
-3. Drivers prefer to accept Restaurants coupons when the temperature is around 80 and the restaurants are less than 20 mins away.
+3. Drivers prefer to accept Restaurants coupons when the temperature is around 80 and the restaurants are less than 20 mins away. And, Drivers prefer to stay home and accept Carry out & Take away when the temperatures are around 30, colder temperatures not willing to drive.
 ![Histogram of Temp by Marital Status](./images/q6-hist-temp.png)
-4. Drivers prefer to stay home and accept Carry out & Take away when the temperatures are around 30, colder temperatures not willing to drive.
 5. Acceptance rate of customers who went to a bar 3 or fewer times a month is 12.16% compared to customers who went to a bar more than 3 times is 6.99%
 6. Only 20.9% of Drivers visit bar more than once and are older than 25
+![Acceptance rate of drivers who visit Bar](./images/bar-q4.png) ![Drivers Visiting Bar and age > 25](./images/bar-q4-hist.png) ![Drivers visiting Bar with age > 25 and Accepted Coupon](./images/bar-q4-hist-age25.png)
 7. acceptance rate between drivers who go to bars more than once a month, had passengers that were not a kid and had occupations other than farming, fishing, or forestry is 71.3% compared to all Drivers who have accepted Bar coupons.
+![Drivers who go to bars more than once, without a kid and occupations other than Farming/Fishing/Forestry](./images/bar-q5.png)
 
