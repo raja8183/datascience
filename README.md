@@ -54,9 +54,9 @@ Below are a few observations from the data analysis for drivers who visit Coffee
 
 1. 49.9% of the drivers going to Coffee House have accepted the coupons
 2. 14.04% of the drivers who went to coffee house more than 3 times accepted the coupons.
-3. Drivers 25 and younger visit the Coffee House more often.
+3. Drivers 25 and younger visit the Coffee House more often accept coupons.
 4. Drivers 26 and older visit Coffee House more often accept coupons.
-5. Drivers who visit Coffee House Alone and are unemployed.
+5. Drivers who visit Coffee House Alone and are unemployed accept coupons.
 
 
 Further analysis can be done on other Coupons like Restaurant. Additional attributes are available compared to Bar and Coffee House i.e RestaurantLessThan20 and Restaurant20to50.
