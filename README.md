@@ -30,7 +30,7 @@ Below are a few observations from the data analysis for drivers who visit Bar :
 1. Only 41% of Drivers who visit Bar have accepted the coupon.
 ![Bar Coupons Accepted](./images/bar-q2.png)
 
-2. Acceptance rate of customers who went to a bar 3 or fewer times a month is 12.16% compared to customers who went to a bar more than 3 times is 6.99%
+2. Acceptance rate of customers who went to a bar 3 or fewer times a month is 12.79% compared to customers who went to a bar more than 3 times is 7.61%
 ![Visit Bar 3 or fewer times](./images/bar-q3-hist.png)
 
 3. Only 20.9% of Drivers visit bar more than once and are older than 25 accept coupons
